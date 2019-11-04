@@ -14,7 +14,7 @@
 )
 
 [SStap 原版(安装版)](https://www.lanzous.com/i760gyd
-6/)
+)
 
 [SSR 客户端（ iOS版）](https://www.lanzous.com/i131n6j
 )
