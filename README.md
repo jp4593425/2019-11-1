@@ -12,9 +12,8 @@
 
 [SSR 客户端(MacOS版)](https://dlc.ssrshare.xyz/list/32584/)
 
-[SStap 优化版(便携版)](https://dlc.ssrshare.xyz/sstap_Modified/)
-
-[SStap 原版(安装版)](https://dlc.ssrshare.xyz/list/32586/)
+[SStap 原版(安装版)](https://www.lanzous.com/i760gyd
+6/)
 
 [SSR 客户端（ iOS版）](https://www.lanzous.com/i131n6j
 )
