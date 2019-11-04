@@ -10,7 +10,8 @@
 [SSR 客户端(Android版)](https://www.lanzous.com/i131n0d
 )
 
-[SSR 客户端(MacOS版)](https://dlc.ssrshare.xyz/list/32584/)
+[SSR 客户端(MacOS版)](https://www.lanzous.com/i7408ti
+)
 
 [SStap 原版(安装版)](https://www.lanzous.com/i760gyd
 6/)
