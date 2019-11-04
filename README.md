@@ -7,7 +7,8 @@
 [SSR 客户端(PC版)](https://www.lanzous.com/i73z5mh
 )
 
-[SSR 客户端(Android版)](https://yadi.sk/d/NixhpUFc3aenzM)
+[SSR 客户端(Android版)](https://www.lanzous.com/i131n0d
+)
 
 [SSR 客户端(MacOS版)](https://dlc.ssrshare.xyz/list/32584/)
 
@@ -15,7 +16,8 @@
 
 [SStap 原版(安装版)](https://dlc.ssrshare.xyz/list/32586/)
 
-[SSR 客户端（ iOS版）](https://www.lanzous.com/i131n6j)
+[SSR 客户端（ iOS版）](https://www.lanzous.com/i131n6j
+)
 
 ### Android谷歌框架安装
 [GooglePay商店安装](https://www.lanzous.com/b385143/)
