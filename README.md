@@ -7,7 +7,7 @@
 [SSR 客户端(PC版)](https://www.lanzous.com/i775jtc
 )
 
-[SSR 客户端(Android版)](https://www.lanzous.com/i131n0d
+[SSR 客户端(Android版)](https://www.lanzous.com/i775ogj
 )
 
 [SSR 客户端(MacOS版)](https://www.lanzous.com/i7408ti
